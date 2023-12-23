@@ -9,7 +9,7 @@ const JSONSchemaCreator = require("./schema-creator");
 const { get } = require("http");
 const jsonSchemas = JSONSchemaCreator(keyIdBinary); 
 
-const connectionString = "mongodb+srv://tarundharmashya:ibAU4Kl8xjlZJ4vX@cluster0.98x0pdr.mongodb.net/";
+const connectionString = "LINK";
 const keyVaultNamespace = "encryption.__keyVault";
 const path = "./master-key.txt";
 const localMasterKey = fs.readFileSync(path);
