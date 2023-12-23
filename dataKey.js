@@ -16,7 +16,7 @@ const kmsProviders = {
 };
 
 /* Create a Data Encryption Key */
-const connectionString = 'mongodb+srv://tarundharmashya:ibAU4Kl8xjlZJ4vX@cluster0.98x0pdr.mongodb.net/';
+const connectionString = 'LINK';
 
 const keyVaultNamespace = 'encryption.__keyVault';
 const client = new MongoClient(connectionString, {
