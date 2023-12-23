@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "mongodb": "^6.3.0",
+    "mongodb-client-encryption": "^6.0.0",
+    "uuid-base64": "^1.0.0"
+  }
+}
